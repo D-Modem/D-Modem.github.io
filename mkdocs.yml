@@ -1,0 +1,12 @@
+INHERIT: .site/mkdocs-base.yml
+site_name: D-Modem
+site_description: An open V.92 softmodem and the apps, boards and servers built around it
+site_url: https://d-modem.github.io/
+repo_url: https://github.com/D-Modem
+repo_name: D-Modem
+edit_uri: https://github.com/D-Modem/D-Modem.github.io/edit/main/docs/
+extra:
+  repo: D-Modem.github.io
+nav:
+  - Home: index.md
+  - How it fits together: suite.md
