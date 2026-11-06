@@ -69,6 +69,13 @@ callers on a PBX and give them a login, a menu and a bulletin board.
     A Go library for TN3270 servers, the suite's fork of
     racingmars/go3270. bbs draws its 3270 screens with it.
 
+-   **[gui](https://github.com/D-Modem/gui)**
+
+    ---
+
+    Native desktop apps for D-Modem, in the works: the modem, its
+    terminal and fax in a window on Windows, macOS and Linux.
+
 -   **[brand](https://github.com/D-Modem/brand)**
 
     ---
