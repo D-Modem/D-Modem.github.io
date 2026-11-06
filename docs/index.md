@@ -20,6 +20,8 @@ callers on a PBX and give them a login, a menu and a bulletin board.
 </div>
 </div>
 
+<div class="suite-home" markdown>
+
 ## The suite
 
 <div class="grid cards" markdown>
@@ -88,3 +90,5 @@ callers on a PBX and give them a login, a menu and a bulletin board.
   [bbs](https://github.com/D-Modem/bbs) behind it.
 
 [How the pieces fit together](suite.md){ .md-button }
+
+</div>
