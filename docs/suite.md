@@ -43,6 +43,6 @@ carries it somewhere or answers the calls it makes.
 
 ## Licences
 
-D-Modem, the app, menu, bbs and brand are under the GNU AGPL 3.0; go3270
-keeps its upstream MIT licence. Each repository's README says which
-licence it has and whether a commercial licence is available.
+Every repository is under the GNU AGPL 3.0 only, or a commercial licence
+from the D-Modem Authors. go3270's code from upstream also keeps its MIT
+licence. Each repository's README has the details.
