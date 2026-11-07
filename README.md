@@ -13,4 +13,6 @@ To preview, with brand cloned beside this repository:
     pip install -r ../brand/pages/requirements.txt
     ../brand/tools/site.sh . serve
 
-Contributions come with a contributor agreement ([CONTRIBUTING.md](CONTRIBUTING.md)).
+## Licence
+
+AGPL-3.0-only ([LICENSE](LICENSE)), or a commercial licence from the D-Modem Authors ([COMMERCIAL-LICENSE.md](COMMERCIAL-LICENSE.md)). Contributions come with a contributor agreement ([CONTRIBUTING.md](CONTRIBUTING.md)).

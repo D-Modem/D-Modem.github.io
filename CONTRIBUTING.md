@@ -5,9 +5,9 @@ sending a change, preview the site ([README.md](README.md)).
 
 ## The contributor agreement
 
-The site is the D-Modem Authors'.  So that they can publish
-contributions to it and offer them under any terms, each one comes with
-this agreement.
+The site is offered under the AGPL-3.0 and, by the D-Modem Authors, under
+commercial licenses ([COMMERCIAL-LICENSE.md](COMMERCIAL-LICENSE.md)).
+For contributions to be part of both, each one comes with this agreement.
 By submitting a contribution (a pull request, a patch or
 any other code or text meant for inclusion), you agree that:
 
@@ -21,7 +21,7 @@ any other code or text meant for inclusion), you agree that:
    perpetual, worldwide, non-exclusive, no-charge, royalty-free,
    irrevocable license to use, copy, modify, publicly display and
    perform, sublicense and distribute your contribution and works based
-   on it, under the terms the site is offered under and under any other terms, commercial
+   on it, under the AGPL-3.0 and under any other terms, commercial
    licenses included.
 4. You grant the same parties a license, on the same terms, under any
    patent claims of yours that your contribution would infringe, to
