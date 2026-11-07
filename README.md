@@ -13,3 +13,4 @@ To preview, with brand cloned beside this repository:
     pip install -r ../brand/pages/requirements.txt
     ../brand/tools/site.sh . serve
 
+Contributions come with a contributor agreement ([CONTRIBUTING.md](CONTRIBUTING.md)).
