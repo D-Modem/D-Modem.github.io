@@ -1,14 +1,16 @@
 # D-Modem.github.io
 
-The D-Modem suite's website, <https://d-modem.github.io/>: what the
-suite is and where each of its repositories' sites lives.
+This is the website of the D-Modem suite, <https://d-modem.github.io/>.
+It tells what the suite is, and gives the location of the site of each
+repository in the suite.
 
-The pages are under `docs/`. They're built with Zensical and the shared
-theme from [brand](https://github.com/D-Modem/brand) (its
-[docs/sites.md](https://github.com/D-Modem/brand/blob/main/docs/sites.md)),
-and deployed by `.github/workflows/pages.yml` on every push to main.
+The pages are in `docs/`. Zensical builds them with the shared theme from
+[brand](https://github.com/D-Modem/brand) (refer to its
+[docs/sites.md](https://github.com/D-Modem/brand/blob/main/docs/sites.md)).
+`.github/workflows/pages.yml` deploys them on each push to main.
 
-To preview, with brand cloned beside this repository:
+To preview the site, clone brand next to this repository. Then run these
+commands:
 
     pip install -r ../brand/pages/requirements.txt
     ../brand/tools/site.sh . serve
