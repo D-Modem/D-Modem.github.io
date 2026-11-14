@@ -3,6 +3,9 @@
 Contributions are welcome: issues, fixes and features alike.  Before
 sending a change, preview the site ([README.md](README.md)).
 
+Write all technical documentation in ASD-STE100 Simplified Technical
+English. Follow [STYLE.md](STYLE.md).
+
 ## The contributor agreement
 
 The site is offered under the AGPL-3.0 and, by the D-Modem Authors, under
