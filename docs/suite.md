@@ -22,6 +22,9 @@ calls that it makes.
   makes a SIP call and gives the computer a serial port (a pty, a COM
   port or a socket). Terminal programs, fax software and `pppd` dial
   through this port with AT commands, as with a hardware modem.
+- **On a desktop**, the [desktop apps](https://github.com/D-Modem/gui)
+  start `dmodemd` and show the modem in a window, with a terminal, a
+  phone and the settings of the modem, on Windows, macOS and Linux.
 - **On a phone**, the [D-Modem app](https://github.com/D-Modem/app) runs
   the same core on Android or iOS, with its own terminal, fax and dial-up
   internet.
