@@ -11,7 +11,7 @@ calls that it makes.
         │                                               │
  dmodemd (D-Modem)  ── SIP call ──▶  PBX ──▶  app_dmodem (D-Modem)
    or the app                                           │
-   or a pico-serial stick on a phone line          modemmenu (menu)
+   or a pico-serial stick on a phone line          dmodem-login (login)
                                                         │
                                                 bbs, PPP, a shell
 ```
@@ -35,7 +35,7 @@ calls that it makes.
 - **The PBX modules of D-Modem** (`app_dmodem` for Asterisk and FreePBX,
   `mod_dmodem` for FreeSWITCH, `dmodem-ari`) answer a modem call on a
   phone number.
-- **[modemmenu](https://github.com/D-Modem/menu)** is the first thing
+- **[dmodem-login](https://github.com/D-Modem/login)** is the first thing
   that the caller sees when the modems connect. It gives a login, the
   message of the day and a menu of the tasks that the caller can do.
 - **[bbs](https://github.com/D-Modem/bbs)** is one of those tasks. It is

@@ -49,11 +49,11 @@ callers on a PBX, and give them a login, a menu and a bulletin board.
     pico-serial: open RP2040 boards that connect D-Modem to vintage serial
     ports and to real telephone lines.
 
--   **[menu](https://github.com/D-Modem/menu)**
+-   **[login](https://github.com/D-Modem/login)**
 
     ---
 
-    modemmenu: the login and the menu that dial-up callers see first.
+    dmodem-login: the login, the menu and the LDAP provider. Dial-up callers see it first.
     Behind it, it can have PPP, a shell, the BBS or any other program.
 
 -   **[bbs](https://github.com/D-Modem/bbs)**
@@ -95,7 +95,7 @@ callers on a PBX, and give them a login, a menu and a bulletin board.
 - **Use a real phone line or serial port:** refer to the
   [pico-serial boards](https://github.com/D-Modem/hardware).
 - **Answer callers:** put D-Modem in Asterisk. Then put
-  [modemmenu](https://github.com/D-Modem/menu) and the
+  [dmodem-login](https://github.com/D-Modem/login) and the
   [bbs](https://github.com/D-Modem/bbs) behind it.
 
 [How the pieces fit together](suite.md){ .md-button }
