@@ -74,9 +74,10 @@ callers on a PBX, and give them a login, a menu and a bulletin board.
 
     ---
 
-    Native desktop apps for D-Modem. We now develop them, and they are not
-    complete. They will put the modem, its terminal and fax in a window on Windows,
-    macOS and Linux.
+    The D-Modem desktop apps: the modem, a phone, a terminal and SSH in a
+    window. They run on Windows 95 to Windows 11, macOS and Linux, with the
+    modem built in. Refer to [the site](https://d-modem.github.io/gui/) and
+    [download](https://d-modem.github.io/gui/download/) the nightly build.
 
 -   **[brand](https://github.com/D-Modem/brand)**
 
@@ -91,6 +92,9 @@ callers on a PBX, and give them a login, a menu and a bulletin board.
 
 - **Dial from a computer:** build [D-Modem](https://github.com/D-Modem/D-Modem)
   and run `dmodemd` with a SIP account. Then dial from a terminal program.
+- **Dial from a desktop app:** download the
+  [D-Modem desktop apps](https://d-modem.github.io/gui/) for Windows, macOS
+  or Linux.
 - **Dial from a phone:** install the [D-Modem app](https://github.com/D-Modem/app).
 - **Use a real phone line or serial port:** refer to the
   [pico-serial boards](https://github.com/D-Modem/hardware).
