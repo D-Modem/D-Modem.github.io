@@ -4,6 +4,8 @@ site_description: An open V.92 softmodem and the apps, boards and servers built 
 site_url: https://d-modem.github.io/
 repo_url: https://github.com/D-Modem
 repo_name: D-Modem
+# the build replaces <!-- suite:cards --> in docs/index.md, in a copy
+docs_dir: .site/docs
 edit_uri: https://github.com/D-Modem/D-Modem.github.io/edit/main/docs/
 extra:
   repo: D-Modem.github.io
